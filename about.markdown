@@ -8,7 +8,7 @@ Az AnIMaDe egy polgári társulás, aminek célja, hogy a közvetlen környezet�
 
 Main links:
 
-- [GUI][ttltrk.github.io/planets/] 
+- [GUI][https://ttltrk.github.io/planets/] 
 - [Facebook_page](https://www.facebook.com/animadebos)
 - [Twitter_page](https://twitter.com/AnIMaDe_Bos)
 - [Instagram_page](http://instagram.com/an.i.ma.de)
